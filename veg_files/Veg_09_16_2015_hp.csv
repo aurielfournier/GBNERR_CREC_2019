@@ -1,0 +1,90 @@
+point,bv,notebook,month,day,year,habtype,spp,round,region,area,impound,int,short,tall,pe,pcgrass,up,bg,water,wood,other,crop,central,north,east,south,west,averagewater,plant1,plant2,plant3,waterp,woodp,dead
+178,v,NA,9,NA,2015,ms,NA,2,ne,ccnwr,ccmsu2,0,70,0,0,0,20,0,0,0,10,0,0,0,0,0,0,0,sedge,cocklebur,a smartweed,NA,NA,NA
+1163,v,NA,9,NA,2015,ms,NA,2,ne,ccnwr,ccmsu2,0,65,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,sedge,cocklebur,spikerush,NA,NA,NA
+1169,v,NA,9,NA,2015,ms,NA,2,ne,ccnwr,ccmsu2,0,65,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,sedge,cocklebur,spikerush,NA,NA,NA
+1162,v,NA,9,NA,2015,ms,NA,2,ne,ccnwr,ccmsu2,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sedge,spikerush,a smartweed,NA,NA,NA
+1305,v,NA,9,NA,2015,ms,NA,2,ne,ccnwr,ccmsu2,0,60,0,0,0,25,0,0,0,15,0,0,0,0,0,0,0,sedge,cocklebur,a smartweed,NA,NA,NA
+1176,v,NA,9,NA,2015,ms,NA,2,ne,ccnwr,ccmsu2,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a smartweed,spikerush,NA,NA,NA,NA
+1165,v,NA,9,NA,2015,ms,NA,2,ne,ccnwr,ccmsu2,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a smartweed,spikerush,NA,NA,NA,NA
+1168,v,NA,9,NA,2015,ms,NA,2,ne,ccnwr,ccmsu2,0,80,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,a smartweed,spikerush,cocklebur,NA,NA,NA
+1166,v,NA,9,NA,2015,ms,NA,2,ne,ccnwr,ccmsu2,0,80,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,a smartweed,spikerush,cocklebur,NA,NA,NA
+1171,v,NA,9,NA,2015,ms,NA,2,ne,ccnwr,ccmsu2,0,80,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,a smartweed,spikerush,cocklebur,NA,NA,NA
+1172,v,NA,9,NA,2015,ms,NA,2,ne,ccnwr,ccmsu2,0,65,0,5,0,20,10,0,0,0,0,0,0,0,0,0,0,a smartweed,cocklebur,spikerush,NA,NA,NA
+1173,v,NA,9,NA,2015,ms,NA,2,ne,ccnwr,ccmsu2,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a smartweed,spikerush,NA,NA,NA,NA
+1174,v,NA,9,NA,2015,ms,NA,2,ne,ccnwr,ccmsu2,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a smartweed,spikerush,NA,NA,NA,NA
+1164,v,NA,9,NA,2015,ms,NA,2,ne,ccnwr,ccmsu2,0,40,0,0,0,30,30,0,0,0,0,0,0,0,0,0,0,a smartweed,cocklebur,spikerush,NA,NA,NA
+1177,v,NA,9,NA,2015,ms,NA,2,ne,ccnwr,ccmsu2,0,70,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,a smartweed,cocklebur,millet,NA,NA,NA
+1161,v,NA,9,NA,2015,ms,NA,2,ne,ccnwr,ccmsu2,0,55,0,0,0,30,5,0,0,10,0,0,0,0,0,0,0,a smartweed,spikerush,millet,NA,NA,NA
+1179,v,NA,9,NA,2015,ms,NA,2,ne,ccnwr,ccmsu2,0,85,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,a smartweed,spikerush,bulrush,NA,NA,NA
+1170,v,NA,9,NA,2015,ms,NA,2,ne,ccnwr,ccmsu2,0,70,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,a smartweed,cocklebur,sedge,NA,NA,NA
+1175,v,NA,9,NA,2015,ms,NA,2,ne,ccnwr,ccmsu2,0,55,0,0,0,20,10,0,5,10,0,0,0,0,0,0,0,a smartweed,cocklebur,spikerush,NA,NA,NA
+hp177,b,NA,9,NA,2015,ms,sora,2,ne,tsca,ts2a,0,85,0,0,0,0,0,0,0,15,0,17,18,31,21,1,17.6,a smartweed,millet,primrose,NA,NA,NA
+hp333,b,NA,9,NA,2015,ms,sora,2,ne,tsca,ts4a,16,70,0,0,0,0,0,20,0,10,0,8,10,8,14,13,10.6,a smartweed,primrose,NA,NA,NA,NA
+hp177,b,NA,9,NA,2015,ms,sora,2,ne,tsca,ts4a,16,70,0,0,0,0,0,20,0,10,0,8,10,8,14,13,10.6,a smartweed,primrose,NA,NA,NA,NA
+hp176,b,NA,9,NA,2015,ms,sora,2,ne,tsca,ts4a,23,65,0,0,0,0,0,25,0,10,0,14,15,16,17,21,16.6,a smartweed,primrose,NA,NA,NA,NA
+af123,b,NA,9,NA,2015,ms,sora,2,ne,tsca,ts4a,23,60,0,0,0,0,0,30,0,10,0,29,29,21,22,26,25.4,a smartweed,primrose,NA,NA,NA,NA
+af124,b,NA,9,NA,2015,ms,sora,2,ne,tsca,ts4a,6,90,0,0,0,0,0,10,0,0,0,31,34,29,34,28,31.2,a smartweed,NA,NA,NA,NA,NA
+hp168,b,NA,9,NA,2015,ms,sora,2,ne,tsca,ts8a,0,75,0,0,0,15,0,0,0,10,0,0,0,0,0,0,0,a smartweed,millet,cocklebur,NA,NA,NA
+af125,b,NA,9,NA,2015,ms,sora,2,ne,tsca,ts8a,0,90,0,0,0,0,0,0,0,10,0,16,19,19,20,18,18.4,a smartweed,millet,primrose,NA,NA,NA
+hp169,b,NA,9,NA,2015,ms,sora,2,ne,tsca,ts8a,0,60,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,a smartweed,millet,cocklebur,NA,NA,NA
+hp170,b,NA,9,NA,2015,ms,sora,2,ne,tsca,ts8a,0,80,0,20,0,0,0,0,0,0,0,16,16,13,16,16,15.4,a smartweed,millet,bulrush,NA,NA,NA
+hp173,b,NA,9,NA,2015,ms,sora,2,ne,tsca,ts8a,0,85,0,15,0,0,0,0,0,0,0,20,12,14,17,12,15,a smartweed,millet,primrose,NA,NA,NA
+hp174,b,NA,9,NA,2015,ms,sora,2,ne,tsca,ts8a,0,70,0,30,0,0,0,0,0,0,0,18,16,21,36,20,22.2,a smartweed,primrose,cattail,NA,NA,NA
+af126,b,NA,9,NA,2015,ms,sora,2,ne,tsca,ts8a,0,80,0,10,0,0,0,0,10,0,0,10,11,12,17,12,12.4,a smartweed,millet,cattail,NA,NA,NA
+hp172,b,NA,9,NA,2015,ms,sora,2,ne,tsca,ts8a,0,70,0,30,0,0,0,0,0,0,0,20,21,24,24,22,22.2,a smartweed,millet,primrose,NA,NA,NA
+hp171,b,NA,9,NA,2015,ms,sora,2,ne,tsca,ts8a,0,80,0,10,0,0,0,0,0,10,0,2,2,1,1,2,1.6,a smartweed,millet,cattail,NA,NA,NA
+af120,b,NA,9,NA,2015,ms,sora,2,ne,tsca,ts8a,0,100,0,0,0,0,0,0,0,0,0,2,3,3,2,2,2.4,a smartweed,millet,spikerush,NA,NA,NA
+af121,b,NA,9,NA,2015,ms,sora,2,ne,tsca,ts8a,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a smartweed,millet,spikerush,NA,NA,NA
+af122,b,NA,9,NA,2015,ms,sora,2,ne,tsca,ts8a,0,85,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,a smartweed,millet,upland,NA,NA,NA
+hp178,b,NA,9,NA,2015,ms,sora,2,ne,tsca,ts8a,0,60,0,0,0,0,0,0,0,0,40,28,18,29,32,20,25.4,a smartweed,millet,NA,NA,NA,NA
+980,v,NA,9,NA,2015,ms,NA,2,ne,bkca,kt6,0,80,0,20,0,0,0,0,0,0,,0,0,0,0,0,0,sedge,toothcup,spikerush,NA,NA,NA
+hp180s,b,NA,9,NA,2015,ms,sora,2,ne,bkca,kt6,8,55,0,30,0,0,0,15,0,0,0,0,0,0,0,0,0,a smartweed,spikerush,cattail,NA,NA,NA
+969,v,NA,9,NA,2015,ms,NA,2,ne,bkca,kt6,5,40,0,50,0,0,0,10,0,0,0,0,0,0,0,0,0,spikerush,reed canary grass,cattail,NA,NA,NA
+966,v,NA,9,NA,2015,ms,NA,2,ne,bkca,kt6,6,60,0,30,0,0,0,10,0,0,0,1,1,1,1,8,2.4,spikerush,cattail,a smartweed,NA,NA,NA
+968,v,NA,9,NA,2015,ms,NA,2,ne,bkca,kt6,0,80,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,a smartweed,spikerush,cattail,NA,NA,NA
+979,v,NA,9,NA,2015,ms,NA,2,ne,bkca,kt6,7,45,0,50,0,0,0,5,0,0,0,14,14,8,14,1,10.2,a smartweed,spikerush,cattail,NA,NA,NA
+977,v,NA,9,NA,2015,ms,NA,2,ne,bkca,kt6,0,60,0,40,0,0,0,0,0,0,0,5,2,4,6,2,7.2,a smartweed,spikerush,cattail,NA,NA,NA
+962,v,NA,9,NA,2015,ms,NA,2,ne,bkca,kt6,0,60,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,a smartweed,spikerush,NA,NA,NA,NA
+972,v,NA,9,NA,2015,ms,NA,2,ne,bkca,kt6,0,70,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,toothcup,a smartweed,spikerush,NA,NA,NA
+965,v,NA,9,NA,2015,ms,NA,2,ne,bkca,kt6,0,60,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,a smartweed,millet,spikerush,NA,NA,NA
+975,v,NA,9,NA,2015,ms,NA,2,ne,bkca,kt6,0,70,0,5,0,25,0,0,0,0,0,0,0,0,0,0,0,spikerush,a smartweed,reed canary grass,NA,NA,NA
+976,v,NA,9,NA,2015,ms,NA,2,ne,bkca,kt6,5,60,0,0,0,35,0,5,0,0,0,0,0,0,0,0,0,upland,spikerush,toothcup,NA,NA,NA
+974,v,NA,9,NA,2015,ms,NA,2,ne,bkca,kt6,5,65,0,10,0,20,0,5,0,0,0,0,0,0,0,0,0,millet,spikerush,upland,NA,NA,NA
+963,v,NA,9,NA,2015,ms,NA,2,ne,bkca,kt6,0,30,0,0,0,40,15,0,0,0,15,0,0,0,0,0,0,upland,rush,NA,NA,NA,NA
+967,v,NA,9,NA,2015,ms,NA,2,ne,bkca,kt6,0,15,0,15,0,35,15,0,0,0,20,0,0,0,0,0,0,upland,rush,spikerush,NA,NA,NA
+973,v,NA,9,NA,2015,ms,NA,2,ne,bkca,kt6,0,75,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,toothcup,millet,spikerush,NA,NA,NA
+971,v,NA,9,NA,2015,ms,NA,2,ne,bkca,kt6,0,55,0,0,0,10,35,0,0,0,0,0,0,0,0,0,0,sedge,spikerush,toothcup,NA,NA,NA
+961,v,NA,9,NA,2015,ms,NA,2,ne,bkca,kt6,0,80,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,spikerush,millet,sedge,NA,NA,NA
+953,v,NA,9,NA,2015,ms,NA,2,ne,bkca,kt6,0,50,0,20,0,30,0,0,0,0,0,0,0,0,0,0,0,rush,upland,spikerush,NA,NA,NA
+958,v,NA,9,NA,2015,ms,NA,2,ne,bkca,kt6,0,10,0,70,0,20,0,0,0,0,0,0,0,0,0,0,0,rush,upland,NA,NA,NA,NA
+951,v,NA,9,NA,2015,ms,NA,2,ne,bkca,kt6,0,20,0,40,0,40,0,0,0,0,0,0,0,0,0,0,0,rush,reed canary grass,upland,NA,NA,NA
+955,v,NA,9,NA,2015,ms,NA,2,ne,bkca,kt6,0,10,0,60,0,20,0,0,0,10,0,2,4,4,3,2,3,rush,upland,millet,NA,NA,NA
+960,v,NA,9,NA,2015,ms,NA,2,ne,bkca,kt5,0,30,0,0,0,70,0,0,0,0,0,0,0,0,0,0,0,millet,upland,rush,NA,NA,NA
+956,v,NA,9,NA,2015,ms,NA,2,ne,bkca,kt5,0,30,0,0,0,70,0,0,0,0,0,0,0,0,0,0,0,millet,rush,biden,NA,NA,NA
+946,v,NA,9,NA,2015,ms,NA,2,ne,bkca,kt5,0,90,0,10,0,0,0,0,0,0,0,4,4,5,13,17,8.6,millet,reed canary grass,spikerush,NA,NA,NA
+942,v,NA,9,NA,2015,ms,NA,2,ne,bkca,kt5,0,45,0,0,0,45,0,0,0,0,10,0,0,0,0,0,0,millet,upland,crop,NA,NA,NA
+950,v,NA,9,NA,2015,ms,NA,2,ne,bkca,kt5,0,85,0,0,0,10,0,0,0,0,5,0,0,0,0,0,0,millet,a smartweed,upland,NA,NA,NA
+944,v,NA,9,NA,2015,ms,NA,2,ne,bkca,kt5,0,80,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,upland,millet,a smartweed,NA,NA,NA
+hp183,b,NA,9,NA,2015,ms,sora,2,ne,bkca,kt5,7,85,0,5,0,0,0,10,0,0,0,15,23,16,23,16,18.6,spikerush,millet,cattail,NA,NA,NA
+hp185,b,NA,9,NA,2015,ms,sora,2,ne,bkca,kt5,5,85,0,5,0,0,0,10,0,0,0,17,27,23,21,21,21.8,spikerush,millet,cattail,NA,NA,NA
+hp184,b,NA,9,NA,2015,ms,sora,2,ne,bkca,kt5,5,85,0,5,0,0,0,10,0,0,0,17,27,23,21,21,21.8,spikerush,millet,cattail,NA,NA,NA
+hp186,b,NA,9,NA,2015,ms,sora,2,ne,bkca,kt5,5,90,0,5,0,0,0,5,0,0,0,17,22,24,25,27,23,spikerush,millet,a smartweed,NA,NA,NA
+hp188,b,NA,9,NA,2015,ms,sora,2,ne,bkca,kt5,4,90,0,5,0,0,0,5,0,0,0,18,25,26,29,33,26.2,a smartweed,millet,spikerush,NA,NA,NA
+hp189,b,NA,9,NA,2015,ms,sora,2,ne,bkca,kt5,4,90,0,5,0,0,0,5,0,0,0,18,25,26,29,33,26.2,a smartweed,millet,spikerush,NA,NA,NA
+hp190,b,NA,9,NA,2015,ms,sora,2,ne,bkca,kt5,4,90,0,5,0,0,0,5,0,0,0,18,25,26,29,33,26.2,a smartweed,millet,spikerush,NA,NA,NA
+hp191,b,NA,9,NA,2015,ms,sora,2,ne,bkca,kt5,0,95,0,5,0,0,0,0,0,0,0,17,11,10,15,13,13.2,millet,spikerush,a smartweed,NA,NA,NA
+hp192,b,NA,9,NA,2015,ms,sora,2,ne,bkca,kt5,0,95,0,5,0,0,0,0,0,0,0,17,11,10,15,13,13.2,millet,spikerush,a smartweed,NA,NA,NA
+hp193,b,NA,9,NA,2015,ms,sora,2,ne,bkca,kt5,0,95,0,5,0,0,0,0,0,0,0,17,11,10,15,13,13.2,millet,spikerush,a smartweed,NA,NA,NA
+hp222,b,NA,9,NA,2015,ms,sora,2,ne,bkca,kt5,3,85,0,5,0,0,0,10,0,0,0,0,0,0,0,0,0,millet,spikerush,a smartweed,NA,NA,NA
+hp194,b,NA,9,NA,2015,ms,sora,2,ne,bkca,kt5,3,85,0,5,0,0,0,10,0,0,0,0,0,0,0,0,0,millet,spikerush,a smartweed,NA,NA,NA
+hp205,b,NA,9,NA,2015,ms,sora,2,ne,bkca,kt5,15,15,0,25,0,10,0,40,0,10,0,0,0,0,0,0,0,bulrush,spikerush,a smartweed,NA,NA,NA
+1238,v,NA,9,13,2015,ms,NA,2,ne,ccnwr,ccmsu12,8,0,0,10,0,0,0,90,0,0,0,13,12,15,12,9,12.2,bulrush,NA,NA,NA,NA,NA
+1234,v,NA,9,13,2015,ms,NA,2,ne,ccnwr,ccmsu12,0,60,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,bulrush,a smartweed,NA,NA,NA,NA
+1221,v,NA,9,13,2015,ms,NA,2,ne,ccnwr,ccmsu12,0,70,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,a smartweed,bulrush,NA,NA,NA,NA
+1237,v,NA,9,13,2015,ms,NA,2,ne,ccnwr,ccmsu12,0,70,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,a smartweed,bulrush,NA,NA,NA,NA
+1236,v,NA,9,13,2015,ms,NA,2,ne,ccnwr,ccmsu12,0,80,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,a smartweed,bulrush,NA,NA,NA,NA
+1229,v,NA,9,13,2015,ms,NA,2,ne,ccnwr,ccmsu12,0,70,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,spikerush,bulrush,a smartweed,NA,NA,NA
+1235,v,NA,9,13,2015,ms,NA,2,ne,ccnwr,ccmsu12,9,15,0,60,0,0,0,25,0,0,0,0,0,0,0,0,0,bulrush,a smartweed,spikerush,NA,NA,NA
+1232,v,NA,9,13,2015,ms,NA,2,ne,ccnwr,ccmsu12,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,bulrush,NA,NA,NA,NA,NA
+1231,v,NA,9,13,2015,ms,NA,2,ne,ccnwr,ccmsu12,0,20,0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,bulrush,a smartweed,NA,NA,NA,NA
+1239,v,NA,9,13,2015,ms,NA,2,ne,ccnwr,ccmsu12,16,40,0,35,0,0,0,25,0,0,0,0,0,0,0,0,0,bulrush,spikerush,a smartweed,NA,NA,NA

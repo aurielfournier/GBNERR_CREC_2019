@@ -1,0 +1,90 @@
+point,bv,notebook,month,day,year,habtype,spp,round,region,area,impound,int,short,tall,pe,pcgrass,up,bg,water,wood,other,crop,central,north,east,south,west,averagewater,plant1,plant2,plant3,waterp,woodp,dead
+486,v,NA,9,28,2015,ms,NA,3,nc,fgca,pool2w,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+488,v,NA,9,28,2015,ms,NA,3,nc,fgca,pool2w,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+492,v,NA,9,28,2015,ms,NA,3,nc,fgca,pool2w,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,21,20,24,23,22,22,NA,NA,NA,NA,NA,NA
+497,v,NA,9,28,2015,ms,NA,3,nc,fgca,pool2w,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,45,47,48,49,50,47.8,NA,NA,NA,NA,NA,NA
+498,v,NA,9,28,2015,ms,NA,3,nc,fgca,pool2w,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,51,52,45,48,47,48.6,NA,NA,NA,NA,NA,NA
+481,v,NA,9,28,2015,ms,NA,3,nc,fgca,pool2w,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+491,v,NA,9,28,2015,ms,NA,3,nc,fgca,pool2w,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+495,v,NA,9,28,2015,ms,NA,3,nc,fgca,pool2w,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,19,21,25,24,20,21.8,NA,NA,NA,NA,NA,NA
+489,v,NA,9,28,2015,ms,NA,3,nc,fgca,pool2w,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,0,0.2,NA,NA,NA,NA,NA,NA
+484,v,NA,9,28,2015,ms,NA,3,nc,fgca,pool2w,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+494,v,NA,9,28,2015,ms,NA,3,nc,fgca,pool2w,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+499,v,NA,9,28,2015,ms,NA,3,nc,fgca,pool2w,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+490,v,NA,9,28,2015,ms,NA,3,nc,fgca,pool2w,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+493,v,NA,9,28,2015,ms,NA,3,nc,fgca,pool2w,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+500,v,NA,9,28,2015,ms,NA,3,nc,fgca,pool2w,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+485,v,NA,9,28,2015,ms,NA,3,nc,fgca,pool2w,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,2,5,0,2,NA,NA,NA,NA,NA,NA
+af311,b,NA,9,28,2015,ms,s,3,nc,fgca,pool2w,19,10,50,0,0,0,0,40,0,0,0,3,0,0,5,1,1.8,prairie cord grass,p smartweed,a smartweed,NA,NA,NA
+af312,b,NA,9,28,2015,ms,s,3,nc,fgca,pool2w,18,35,20,0,0,0,0,45,0,0,0,19,20,21,24,18,20.4,prairie cord grass,p smartweed,a smartweed,NA,NA,NA
+af313,b,NA,9,28,2015,ms,s,3,nc,fgca,pool2w,18,35,20,0,0,0,0,45,0,0,0,19,20,21,24,18,20.4,prairie cord grass,p smartweed,a smartweed,NA,NA,NA
+af314,b,NA,9,28,2015,ms,s,3,nc,fgca,pool2w,0,90,10,0,0,0,0,0,0,0,0,3,5,7,3,2,13,a smartweed,millet,prairie cord grass,NA,NA,NA
+af315,b,NA,9,28,2015,ms,s,3,nc,fgca,pool2w,10,45,30,0,0,0,0,25,0,0,0,21,25,24,22,19,22.2,a smartweed,prairie cord grass,p smartweed,NA,NA,NA
+af319,b,NA,9,28,2015,ms,s,3,nc,fgca,pool2w,0,75,,25,0,0,0,0,0,0,0,19,17,18,21,25,20,a smartweed,bulrush,millet,NA,NA,NA
+af318,b,NA,9,28,2015,ms,s,3,nc,fgca,pool2w,0,75,,25,0,0,0,0,0,0,0,19,17,18,21,25,20,a smartweed,bulrush,millet,NA,NA,NA
+af323,b,NA,9,28,2015,ms,s,3,nc,fgca,pool2w,0,85,,15,0,0,0,0,0,0,0,3,0,3,2,3,2.2,reed canary grass,a smartweed,bulrush,NA,NA,NA
+af324,b,NA,9,28,2015,ms,s,3,nc,fgca,pool2w,0,85,,15,0,0,0,0,0,0,0,5,7,8,6,5,6.2,spikerush,a smartweed,primrose,NA,NA,NA
+af326,b,NA,9,28,2015,ms,s,3,nc,fgca,pool2w,0,75,15,15,0,0,0,0,0,0,0,7,8,9,7,10,8.2,spikerush,a smartweed,prairie cord grass,NA,NA,NA
+af329,b,NA,9,28,2015,ms,s,3,nc,fgca,pool2w,0,85,10,0,0,0,0,0,5,0,0,0,0,0,0,1,0.2,spikerush,p smartweed,prairie cord grass,NA,NA,NA
+af332,b,NA,9,28,2015,ms,s,3,nc,fgca,pool2w,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a smartweed,millet,spikerush,NA,NA,NA
+af333,b,NA,9,28,2015,ms,s,3,nc,fgca,pool2w,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a smartweed,millet,spikerush,NA,NA,NA
+af334,b,NA,9,28,2015,ms,s,3,nc,fgca,pool2w,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a smartweed,millet,spikerush,NA,NA,NA
+af340,b,NA,9,28,2015,ms,s,3,nc,fgca,pool2w,0,100,0,0,0,0,0,0,0,0,0,15,16,19,15,21,17.2,spikerush,a smartweed,millet,NA,NA,NA
+af339,b,NA,9,28,2015,ms,s,3,nc,fgca,pool2w,14,45,0,0,0,0,0,55,0,0,0,19,21,18,22,18,19.6,spikerush,a smartweed,millet,NA,NA,NA
+af331,b,NA,9,28,2015,ms,s,3,nc,fgca,pool2w,0,80,10,10,0,0,0,0,0,0,0,5,6,8,7,5,6.2,spikerush,a smartweed,prairie cord grass,NA,NA,NA
+af330,b,NA,9,28,2015,ms,s,3,nc,fgca,pool2w,0,80,10,10,0,0,0,0,0,0,0,5,6,8,7,5,6.2,spikerush,a smartweed,prairie cord grass,NA,NA,NA
+af327,b,NA,9,28,2015,ms,s,3,nc,fgca,pool2w,0,90,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,a smartweed,spikerush,prairie cord grass,NA,NA,NA
+af328,b,NA,9,28,2015,ms,s,3,nc,fgca,pool2w,0,90,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,a smartweed,spikerush,prairie cord grass,NA,NA,NA
+61,v,NA,9,29,2015,ms,NA,3,nc,slnwr,m13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+68,v,NA,9,29,2015,ms,NA,3,nc,slnwr,m13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,4,3,2,3,NA,NA,NA,NA,NA,NA
+63,v,NA,9,29,2015,ms,NA,3,nc,slnwr,m13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,33,31,30,29,33,31.2,NA,NA,NA,NA,NA,NA
+80,v,NA,9,29,2015,ms,NA,3,nc,slnwr,m13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,999,999,999,999,999,999,NA,NA,NA,NA,NA,NA
+60,v,NA,9,29,2015,ms,NA,3,nc,slnwr,m13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,999,999,999,999,999,999,NA,NA,NA,NA,NA,NA
+66,v,NA,9,29,2015,ms,NA,3,nc,slnwr,m13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,999,999,999,999,999,999,NA,NA,NA,NA,NA,NA
+76,v,NA,9,29,2015,ms,NA,3,nc,slnwr,m13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,999,999,999,999,999,999,NA,NA,NA,NA,NA,NA
+75,v,NA,9,29,2015,ms,NA,3,nc,slnwr,m13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,5,3,2,3.2,NA,NA,NA,NA,NA,NA
+76,v,NA,9,29,2015,ms,NA,3,nc,slnwr,m13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25,26,28,25,23,25.4,NA,NA,NA,NA,NA,NA
+78,v,NA,9,29,2015,ms,NA,3,nc,slnwr,m13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,28,26,32,31,35,30.4,NA,NA,NA,NA,NA,NA
+64,v,NA,9,29,2015,ms,NA,3,nc,slnwr,m13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,999,999,999,999,999,999,NA,NA,NA,NA,NA,NA
+65,v,NA,9,29,2015,ms,NA,3,nc,slnwr,m13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,999,999,999,999,999,999,NA,NA,NA,NA,NA,NA
+77,v,NA,9,29,2015,ms,NA,3,nc,slnwr,m13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,32,35,34,30,32.4,NA,NA,NA,NA,NA,NA
+70,v,NA,9,29,2015,ms,NA,3,nc,slnwr,m13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,29,21,25,24,25,24.8,NA,NA,NA,NA,NA,NA
+74,v,NA,9,29,2015,ms,NA,3,nc,slnwr,m13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,30,29,28,35,30.6,NA,NA,NA,NA,NA,NA
+73,v,NA,9,29,2015,ms,NA,3,nc,slnwr,m13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,5,4,5,7,4.8,NA,NA,NA,NA,NA,NA
+62,v,NA,9,29,2015,ms,NA,3,nc,slnwr,m13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+71,v,NA,9,29,2015,ms,NA,3,nc,slnwr,m13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+75,v,NA,9,29,2015,ms,NA,3,nc,slnwr,m13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,0.4,NA,NA,NA,NA,NA,NA
+67,v,NA,9,29,2015,ms,NA,3,nc,slnwr,m13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+72,v,NA,9,29,2015,ms,NA,3,nc,slnwr,m13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+af369,b,NA,9,29,2015,ms,s,3,nc,slnwr,m13,0,50,50,0,0,0,0,0,0,0,0,3,3,4,3,2,3,prairie cord grass,a smartweed,spikerush,NA,NA,NA
+hp312,b,NA,9,29,2015,ms,s,3,nc,slnwr,m13,0,60,40,0,0,0,0,0,0,0,0,15,16,18,15,17,16.2,prairie cord grass,a smartweed,millet,NA,NA,NA
+afviraday29,b,NA,9,29,2015,ms,v,3,nc,slnwr,m13,0,40,60,0,0,0,0,0,0,0,0,19,22,28,18,21,21.6,prairie cord grass,spikerush,a smartweed,NA,NA,NA
+af364,b,NA,9,29,2015,ms,s,3,nc,slnwr,m13,0,30,70,0,0,0,0,0,0,0,0,21,19,22,18,21,20.2,prairie cord grass,p smartweed,spikerush,NA,NA,NA
+af365,b,NA,9,29,2015,ms,s,3,nc,slnwr,m13,0,30,70,0,0,0,0,0,0,0,0,30,31,25,32,35,30.6,prairie cord grass,p smartweed,millet,NA,NA,NA
+hp320,b,NA,9,29,2015,ms,s,3,nc,slnwr,m13,0,40,60,0,0,0,0,0,0,0,0,37,38,41,36,35,37.4,prairie cord grass,spikerush,a smartweed,NA,NA,NA
+af367,b,NA,9,29,2015,ms,s,3,nc,slnwr,m13,0,55,40,0,0,0,0,0,5,0,0,31,33,32,30,29,31,prairie cord grass,a smartweed,spikerush,NA,NA,NA
+hp318,b,NA,9,29,2015,ms,s,3,nc,slnwr,m13,0,55,40,0,0,0,0,0,5,0,0,31,33,32,30,29,31,prairie cord grass,a smartweed,spikerush,NA,NA,NA
+hp315,b,NA,9,29,2015,ms,s,3,nc,slnwr,m13,0,55,40,0,0,0,0,0,5,0,0,31,33,32,30,29,31,prairie cord grass,a smartweed,spikerush,NA,NA,NA
+af365,b,NA,9,29,2015,ms,s,3,nc,slnwr,m13,0,30,70,0,0,0,0,0,0,0,0,21,19,22,18,21,20.2,prairie cord grass,p smartweed,spikerush,NA,NA,NA
+af371,b,NA,9,29,2015,ms,s,3,nc,slnwr,m13,0,60,40,0,0,0,0,0,0,0,0,25,26,27,30,25,26.6,a smartweed,spikerush,prairie cord grass,NA,NA,NA
+hp313,b,NA,9,29,2015,ms,s,3,nc,slnwr,m13,0,30,60,0,0,0,0,0,10,0,0,28,27,29,31,30,29,prairie cord grass,spikerush,a smartweed,NA,NA,NA
+hp354,b,NA,9,29,2015,ms,s,3,nc,slnwr,m11,0,75,0,20,0,0,0,0,5,0,0,17,18,20,21,19,19,a smartweed,bulrush,plantain,NA,NA,NA
+af363,b,NA,9,29,2015,ms,s,3,nc,slnwr,m11,0,90,10,0,0,0,0,0,0,0,0,15,16,17,18,15,16.2,spikerush,a smartweed,prairie cord grass,NA,NA,NA
+af361,b,NA,9,29,2015,ms,s,3,nc,slnwr,m11,0,85,10,0,0,0,0,0,5,0,0,15,14,15,15,14,14.6,spikerush,a smartweed,prairie cord grass,NA,NA,NA
+hp351,b,NA,9,29,2015,ms,s,3,nc,slnwr,m11,0,40,20,25,0,0,0,0,15,0,0,15,14,15,13,17,14.8,a smartweed,bulrush,prairie cord grass,NA,NA,NA
+af359,b,NA,9,29,2015,ms,s,3,nc,slnwr,m11,0,60,10,10,0,0,0,0,20,0,0,15,16,15,17,20,16.6,a smartweed,spikerush,buttonbush,NA,NA,NA
+88,v,NA,9,29,2015,ms,NA,3,nc,slnwr,m11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,18,19,18,17,19,18.2,NA,NA,NA,NA,NA,NA
+81,v,NA,9,29,2015,ms,NA,3,nc,slnwr,m11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,19,19,18,20,21,19.4,NA,NA,NA,NA,NA,NA
+97,v,NA,9,29,2015,ms,NA,3,nc,slnwr,m11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,21,25,28,26,30,26,NA,NA,NA,NA,NA,NA
+90,v,NA,9,29,2015,ms,NA,3,nc,slnwr,m11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,999,999,999,999,999,999,NA,NA,NA,NA,NA,NA
+100,v,NA,9,29,2015,ms,NA,3,nc,slnwr,m11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,28,27,26,28,31,28,NA,NA,NA,NA,NA,NA
+82,v,NA,9,29,2015,ms,NA,3,nc,slnwr,m11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,29,31,30,32,28,30,NA,NA,NA,NA,NA,NA
+94,v,NA,9,29,2015,ms,NA,3,nc,slnwr,m11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,999,999,999,999,999,999,NA,NA,NA,NA,NA,NA
+87,v,NA,9,29,2015,ms,NA,3,nc,slnwr,m11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,15,16,17,18,19,17,NA,NA,NA,NA,NA,NA
+96,v,NA,9,29,2015,ms,NA,3,nc,slnwr,m11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,11,12,10,11,10.8,NA,NA,NA,NA,NA,NA
+91,v,NA,9,29,2015,ms,NA,3,nc,slnwr,m11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,28,29,27,26,28,27.6,NA,NA,NA,NA,NA,NA
+99,v,NA,9,29,2015,ms,NA,3,nc,slnwr,m11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,15,10,12,13,15,13,NA,NA,NA,NA,NA,NA
+89,v,NA,9,29,2015,ms,NA,3,nc,slnwr,m11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,21,26,25,24,28,24.8,NA,NA,NA,NA,NA,NA
+83,v,NA,9,29,2015,ms,NA,3,nc,slnwr,m11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,2,1,1,2,NA,NA,NA,NA,NA,NA
+95,v,NA,9,29,2015,ms,NA,3,nc,slnwr,m11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,20,21,19,21,20,20.2,NA,NA,NA,NA,NA,NA
+84,v,NA,9,29,2015,ms,NA,3,nc,slnwr,m11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,30,31,29,28,29.8,NA,NA,NA,NA,NA,NA
