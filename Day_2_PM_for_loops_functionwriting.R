@@ -1,6 +1,9 @@
 #Function writing, why learn it?
+
 # There's a couple of reasons learning functions is helpful. One you can write your own common functions. two you can better understand how to troubleshoot your code and other peoples functions. Three the principles of function writing teach us more about good coding tips to learn including reproduciability.  
+
 # What is a function and why is it necessary in R
+
 # A function lets you package code into one unit that doesnt need to be loaded multiple times, or rewritten.
 sem<-function(x, na.rm = TRUE){
   sd(x, na.rm = na.rm)/sqrt(length(x))
@@ -16,22 +19,28 @@ c(hi = mean(data) + sem(data),
 #And we can create a list of all these functions, so we never have to write them again, just load them. And we'll show you how to do this today.
 
 # A function is the functional unit in R. R is built around vectorization and function writing.
+
 # Once you understand this you'll get better at understanding why R does things the way it does them. And be able to fix functions or use them for your own troubleshooting
+
 # A function is anything that has two parenthesis next to it. 
+
 # But a function is simply a way to package up code and run it in a confined space. For example lets look at sd
 
 sd
 
 # you see that? That's actually the underlying code in the function.
 
-
-
 # but why do this?
+
 # 1. It's much cleaner. Typing sd() and not having anyone worry about the underlying stuff can be good for readability.
+
 # 2. It's reproduciable, and no one can mess with the function. This code will work everytime the way its supposed to, there's no accidently messing up the code. You can hand this to someone and it will always work. And then hark back to #1
+
 # 3. Much easier to give finished product to collaborator or someone with lower R understanding. Including package building
+
 # 4. It's actually more memory friendly. Lets actually look at that. Here's a function.
-# say we wanted to find the range of a vector. A post the maxinum, minimum, and range. How might we do that
+
+# Say we wanted to find the range of a vector. A post the maxinum, minimum, and range. How might we do that
 
 
 ### CHALLENGE 
@@ -53,15 +62,16 @@ temp_fun <- function(temp_values, input_temp){
 ######
 # What we start learning now are functions that are useful not just for our function writing but for your future codes in general.
 #teach print
-#As you get farther into programming youll find it useful to print out messages. Either something like 'Hey im starting', or 'oops i stopped', 'or you messed up!'. And if you get tired of your favorite R functions giving you illogical error messages you can even start writing in your own error messages. 
 
-#The simple function to do this is print(). with fairly easy syntax
+# As you get farther into programming youll find it useful to print out messages. Either something like 'Hey im starting', or 'oops i stopped', 'or you messed up!'. And if you get tired of your favorite R functions giving you illogical error messages you can even start writing in your own error messages. 
+
+# The simple function to do this is print(). with fairly easy syntax
 ?print
 print(i)
 
-#Whatever you put in quotes will be printed to the console. This is useful because it will print out while code is going, including inside functions and for loops. Meaning you can put in status messages
+# Whatever you put in quotes will be printed to the console. This is useful because it will print out while code is going, including inside functions and for loops. Meaning you can put in status messages
 
-#for example
+# For example
 
 for(i in 1:100000000){
   if(i==1) {print('im thinking')}
@@ -76,26 +86,27 @@ my.fun1<-function(){
 }
 my.fun1()
 
-#Theres a function that is very useful with the print function and gives a bit of an intro into more programming-esque functions. One of the first lessons is the If statement. This is part of the control structure of programming codes. They direct how codes are supposed to run. And are some of the fundamentals of programming.
+# Theres a function that is very useful with the print function and gives a bit of an intro into more programming-esque functions. One of the first lessons is the If statement. This is part of the control structure of programming codes. They direct how codes are supposed to run. And are some of the fundamentals of programming.
 
-#An If statement reads like this, IF something is true or false then DO something specific. So  write it out. If I am hungry then I will eat. so If something was true, I am hungry, then I should DO something. 
+# An If statement reads like this, IF something is true or false then DO something specific. So  write it out. If I am hungry then I will eat. so If something was true, I am hungry, then I should DO something. 
 
-#In R it works like this. 
+# In R it works like this. 
 if(TRUE){print('I did it')}
 if(FALSE){print('I did it')}
-#So it splits out into two directions. And either does or doesnt do something. And this can be any statement as long as it makes a resulting statement that is either true or false
+
+# So it splits out into two directions. And either does or doesnt do something. And this can be any statement as long as it makes a resulting statement that is either true or false
 x<-1
 if(x==1){print('I did it')}
 x<-2
 
-#And while currently it doesnt do anything if its not true, you can make it do something if the statement is not true.
+# And while currently it doesnt do anything if its not true, you can make it do something if the statement is not true.
 
 if(TRUE){print('i did it')} else {'i didnt do it'}
 if(FALSE){print('i did it')} else {'i didnt do it'}
 
 #
-#paste
-#A very powerful tool in programming is the ability to create dynamic messages or outputs. For instance, in this code, what if we wanted to add to our error message and them them what Confidence interval they actual put in? You do this with paste. In other languages this is the same as concatenate. 
+# paste
+# A very powerful tool in programming is the ability to create dynamic messages or outputs. For instance, in this code, what if we wanted to add to our error message and them them what Confidence interval they actual put in? You do this with paste. In other languages this is the same as concatenate. 
 
 ?paste
 ?paste0
