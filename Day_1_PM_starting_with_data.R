@@ -187,23 +187,51 @@ surveys$species_id          # Result is a vector
 
 # In RStudio, you can use the autocompletion feature to get the full and correct names of the columns.
 
+
+
 ### Challenge
 # 1. Create a `data.frame` (`surveys_200`) containing only the data in row 200 of the `surveys` dataset.
 
+surveys_200 <- surveys[200, ]
+
 # 2. Notice how `nrow()` gave you the number of rows in a `data.frame`?
 
-# * Use that number to pull out just that last row in the data frame.
-# * Compare that with what you see as the last row using `tail()` to make
-# sure it's meeting expectations.
+# * Use that number to pull out just that last row in the `surveys` data frame.
+surveys[34786, ]
+
+# * Compare that with what you see as the last row using `tail(surveys)` to make sure it's meeting expectations.
+tail(surveys)
+
+
 # * Pull out that last row using `nrow()` instead of the row number.
+surveys[nrow(surveys), ]
+
+
 # * Create a new data frame (`surveys_last`) from that last row.
+
+
+
+
+
+
+
 
 # 3. Use `nrow()` to extract the row that is in the middle of the data
 #    frame. Store the content of this row in an object named `surveys_middle`.
 
+
+surveys_middle <- surveys[nrow(surveys)/2, ]
+
+
 # 4. Combine `nrow()` with the `-` notation above to reproduce the behavior of
 #    `head(surveys)`, keeping just the first through 6th rows of the surveys
 #    dataset.
+
+surveys[-(7:nrow(surveys)),]
+
+
+
+
 
 
 ## 1.
@@ -216,6 +244,9 @@ surveys_last <- surveys[n_rows, ]
 surveys_middle <- surveys[n_rows / 2, ]
 ## 4.
 surveys_head <- surveys[-(7:n_rows), ]
+
+
+
 
 ### Factors
 
@@ -278,6 +309,10 @@ as.numeric(year_fct)               # Wrong! And there is no warning...
 as.numeric(as.character(year_fct)) # Works...
 as.numeric(levels(year_fct))[year_fct]    # The recommended way.
 
+year_chr <- as.character(year_fct)
+year_num <- as.numeric(year_chr)
+
+
 # Notice that in the `levels()` approach, three important steps occur:
 
 # * We obtain all the factor levels using `levels(year_fct)`
@@ -293,7 +328,14 @@ as.numeric(levels(year_fct))[year_fct]    # The recommended way.
 # the experiment:
 
 ## bar plot of the number of females and males captured during the experiment:
-plot(surveys$sex)
+plot(sex)
+
+
+surveys_new <- read.csv("data/portal_data_joined.csv", 
+                        na.strings=c("NA",""))
+
+
+plot(surveys_new$sex)
 
 # In addition to males and females, there are about 1700 individuals for which the
 # sex information hasn't been recorded. Additionally, for these individuals,
@@ -302,7 +344,7 @@ plot(surveys$sex)
 # the data on sex and work with that data, so we're not modifying the working copy
 # of the data frame:
 
-sex <- surveys$sex
+sex <- surveys_new$sex
 head(sex)
 levels(sex)
 levels(sex)[1] <- "undetermined"
@@ -350,11 +392,10 @@ surveys$plot_type <- factor(surveys$plot_type)
  #   they can also be created by hand with the `data.frame()` function.  There are
  #   a few mistakes in this hand-crafted `data.frame`. Can you spot and fix them?
  #   Don't hesitate to experiment!
-
-     animal_data <- data.frame(
-               animal = c(dog, cat, sea cucumber, sea urchin),
-               feel = c("furry", "squishy", "spiny"),
-               weight = c(45, 8 1.1, 0.8)
+animal_data <- data.frame(
+   animal = c("dog", "cat", "sea cucumber", "sea urchin"),
+   feel = c("furry","furry", "squishy", "spiny"),
+   weight = c(45, 8, 1.1, 0.8)
                )
 
 

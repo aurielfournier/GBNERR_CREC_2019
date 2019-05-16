@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1550103746432.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1929619077",
+    "id" : "D183B2A8",
+    "lastKnownWriteTime" : 1550103752,
+    "last_content_update" : 1550103752650,
+    "path" : "~/refsplitr/R/authors_georef.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "71,106",
+        "scrollLine" : "57"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

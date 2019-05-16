@@ -5,7 +5,7 @@
 # What is a function and why is it necessary in R
 
 # A function lets you package code into one unit that doesnt need to be loaded multiple times, or rewritten.
-sem<-function(x, na.rm = TRUE){
+sem <- function(x, na.rm = TRUE){
   sd(x, na.rm = na.rm)/sqrt(length(x))
 }
 
@@ -47,9 +47,16 @@ sd
 
 # I want to create a function that converts farenheit measurements to celsius. Lets see if we can do that real quick
 
-temp_fun <- function(temp_values){
-  (temp_values - 32) * 5/9
+temp_fun <- function(temp_values, na.rm=TRUE){
+    temp_values <- temp_values[!is.na(temp_values)]
+      (temp_values - 32) * 5/9
 }
+
+
+
+
+
+
 
 # What if we want to add an extra layer of complexity? 
 
@@ -199,6 +206,9 @@ for(i in c('Matt','Auriel','Liz')){
   if(i=='Matt'){print('Matt is awesome')}
   if(i=="Auriel"){print('Auriel is not')}
 }
+
+
+
 ## for loops are useful for refering to rows or columns in a data set if we just feed it sequential numbers
 data<-matrix(1:100,nrow=10,ncol=10)
 data
@@ -206,6 +216,11 @@ data
 for(i in 1:10){
   print(data[i,1])
 }    ### is going to loop through all the rows in column 1 (and print that value)
+
+
+
+
+
 
 for(i in 1:10){
   print(data[i,2])

@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1550103792168.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1033508787",
+    "id" : "7F73B451",
+    "lastKnownWriteTime" : 1546556278,
+    "last_content_update" : 1550104465762,
+    "path" : "~/refnet_materials/20180313_three-function_overview.Rmd",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "37,29",
+        "scrollLine" : "22"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

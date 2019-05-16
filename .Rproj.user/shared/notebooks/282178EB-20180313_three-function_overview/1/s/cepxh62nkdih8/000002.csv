@@ -1,0 +1,5 @@
+"0","eb_references <- references_read(""~/refnet_materials/data/EBpubs.txt"", dir=FALSE, filename_root=""~/refnet_materials/output/eb"")
+"
+"2","Error in references_read(""~/refnet_materials/data/EBpubs.txt"", dir = FALSE,  : 
+  unused argument (filename_root = ""~/refnet_materials/output/eb"")
+"

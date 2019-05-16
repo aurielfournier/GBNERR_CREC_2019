@@ -1,5 +1,5 @@
 point,bv,notebook,month,day,year,habtype,spp,round,region,area,impound,int,short,tall,pe,pcgrass,up,bg,water,wood,other,crop,central,north,east,south,west,averagewater,plant1,plant2,plant3,waterp,woodp,dead
-178,v,NA,9,NA,2015,ms,NA,2,ne,ccnwr,ccmsu2,0,70,0,0,0,20,0,0,0,10,0,0,0,0,0,0,0,sedge,cocklebur,a smartweed,NA,NA,NA
+178,v,NA,9,NA,2015,ms,NA,2,ne,ccnwr,ccmsu2,0,70,0,0,0,20,0,0,0,10,0,0,0,0,0,0,0,sedge,cocklebur,aa smartweed,NA,NA,NA
 1163,v,NA,9,NA,2015,ms,NA,2,ne,ccnwr,ccmsu2,0,65,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,sedge,cocklebur,spikerush,NA,NA,NA
 1169,v,NA,9,NA,2015,ms,NA,2,ne,ccnwr,ccmsu2,0,65,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,sedge,cocklebur,spikerush,NA,NA,NA
 1162,v,NA,9,NA,2015,ms,NA,2,ne,ccnwr,ccmsu2,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sedge,spikerush,a smartweed,NA,NA,NA

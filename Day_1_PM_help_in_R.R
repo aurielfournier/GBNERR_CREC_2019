@@ -34,7 +34,7 @@
 
 # this is better then sending along your own data, as it means you can share your problem with anyone without any worry about sharing your data, and its also much simpler, no one has to read in any data to see what is going on. 
 
-dat <- data.frame(shark_size_a = c(1,5,6,"7"),
+dat <- data.frame(shark_size_a = c(1,5,6,7),
                   shark_size_b = c(6,7,9,10))
 
 t.test(dat$shark_size_a, dat$shark_size_b)

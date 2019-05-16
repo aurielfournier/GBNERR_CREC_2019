@@ -17,12 +17,21 @@ plant <- c("reed canary grass","primrose","millet","bulrush","partridge pea","sp
 
 for(i in 1:length(file_names)){
   int <-  read.csv(file_names[i])
-# so this prints out instances where three are things that are not part of the lists above and includes the file name so I can go and find the issue.   
+# so this prints out instances where three are things that are not part of the lists above and includes the file name so I can go and find the issue. 
+  
+  
   print(paste0(int[(int$region %in% regions==FALSE),]$region," ",file_names[i]," region"))
+  
+  
+  
+  
   print(paste0(int[(int$area %in% areas==FALSE),]$area," ",file_names[i]," area"))
+  
   print(paste0(int[(int$impound %in% impound==FALSE),]$impound," ",file_names[i]," impound"))
   print(paste0(int[(int$plant1 %in% plant==FALSE),]$plant1," ",file_names[i]," plant1"))
+  
   print(paste0(int[(int$plant2 %in% plant==FALSE),]$plant2," ",file_names[i]," plant2"))
+  
   print(paste0(int[(int$plant3 %in% plant==FALSE),]$plant3," ",file_names[i]," plant3"))
 }
 
@@ -35,9 +44,7 @@ for(i in 1:length(file_names)){
     dat$file_name <- file_names[i]
     vegsheets[[i]] <- dat
 }
-
-## this takes the list and combines it all together into one data frame
-masterdat <- do.call(rbind, vegsheets)
+ 
 
 # write it out into a master file
 write.csv(masterdat, "2015_veg_master.csv", row.names=FALSE)

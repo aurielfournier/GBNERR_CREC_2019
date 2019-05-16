@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1550103859274.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1916501428",
+    "id" : "D088C089",
+    "lastKnownWriteTime" : 1549410384,
+    "last_content_update" : 1549410384,
+    "path" : "~/refsplitr/vignettes/refsplitr-vignette.Rmd",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "214,59",
+        "scrollLine" : "205"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
